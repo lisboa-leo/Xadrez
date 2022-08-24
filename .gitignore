@@ -1,0 +1,23 @@
+# text backups
+*~
+*.swp
+
+# ctags
+tags
+# vim session
+all
+
+# zip
+*.zip
+
+# objetos do java
+*.class
+*.jar
+# pasta de build
+build
+# save do jogo
+save.dat
+*.sav
+
+# strem do kdevelop
+*kdev*
